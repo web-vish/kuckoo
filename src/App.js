@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react';
+import React,{ useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.scss';
 import PostComponent from './component/PostComponent';
 import PostListComponent from './component/PostListComponent';
+import PostExposeComponent from './component/PostExposeComponent/PostExposeComponent';
 
 function App() {
 
@@ -37,6 +38,7 @@ function App() {
           <PostListComponent posts={posts} />
         </section>
       </div>
+      <PostExposeComponent/>
     </div>
   );
 }
