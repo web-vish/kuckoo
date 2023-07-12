@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuckoo/static/css/main.34329d1d.css",
+    "main.js": "/kuckoo/static/js/main.7bbed143.js",
+    "static/js/787.7825f3a5.chunk.js": "/kuckoo/static/js/787.7825f3a5.chunk.js",
+    "index.html": "/kuckoo/index.html",
+    "main.34329d1d.css.map": "/kuckoo/static/css/main.34329d1d.css.map",
+    "main.7bbed143.js.map": "/kuckoo/static/js/main.7bbed143.js.map",
+    "787.7825f3a5.chunk.js.map": "/kuckoo/static/js/787.7825f3a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34329d1d.css",
+    "static/js/main.7bbed143.js"
+  ]
+}
