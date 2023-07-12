@@ -15,7 +15,7 @@ function App() {
   };
 
   const newPost = (data) => {
-    axios.post('https://dummyjson.com/posts/add', data).then(({data:resData}) => {
+    axios.post('https://dummyjson.com/posts/add', data).then(({ data: resData }) => {
       console.log('res', resData);
       setPosts([resData, ...posts]);
     })
@@ -29,7 +29,6 @@ function App() {
 
   return (
     <div className="App">
-      <header><h1>Kuckoo</h1></header>
       <div className='app-container'>
         <section>
           <PostComponent submitHandler={newPost} />
