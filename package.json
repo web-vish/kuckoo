@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
     "react-scripts": "5.0.1",
-    "sass": "^1.63.6",
+    "sass": "^1.63.6",  
     "web-vitals": "^2.1.4",
     "webpack": "^5.88.1",
     "webpack-cli": "^5.1.4"
@@ -19,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npx webpack build",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [

@@ -28,9 +28,11 @@ export default function PostExposeComponent() {
             <section>
                 <PostComponent submitHandler={newPost} />
             </section>
-            <section className='app-posts'>
-                <PostListComponent posts={posts} />
-            </section>
+            {posts &&
+                <section className='app-posts'>
+                    <PostListComponent posts={posts} />
+                </section>
+            }
         </div>
     )
 }
