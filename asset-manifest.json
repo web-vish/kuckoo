@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/kuckoo/static/css/main.34329d1d.css",
-    "main.js": "/kuckoo/static/js/main.7bbed143.js",
-    "static/js/787.7825f3a5.chunk.js": "/kuckoo/static/js/787.7825f3a5.chunk.js",
+    "main.js": "/kuckoo/static/js/main.3ad68b9e.js",
+    "static/css/95.b82d49bb.chunk.css": "/kuckoo/static/css/95.b82d49bb.chunk.css",
+    "static/js/95.62aacf18.chunk.js": "/kuckoo/static/js/95.62aacf18.chunk.js",
+    "static/js/651.7ffe84e9.chunk.js": "/kuckoo/static/js/651.7ffe84e9.chunk.js",
+    "static/js/823.4ae3becf.chunk.js": "/kuckoo/static/js/823.4ae3becf.chunk.js",
     "index.html": "/kuckoo/index.html",
-    "main.34329d1d.css.map": "/kuckoo/static/css/main.34329d1d.css.map",
-    "main.7bbed143.js.map": "/kuckoo/static/js/main.7bbed143.js.map",
-    "787.7825f3a5.chunk.js.map": "/kuckoo/static/js/787.7825f3a5.chunk.js.map"
+    "main.3ad68b9e.js.map": "/kuckoo/static/js/main.3ad68b9e.js.map",
+    "95.b82d49bb.chunk.css.map": "/kuckoo/static/css/95.b82d49bb.chunk.css.map",
+    "95.62aacf18.chunk.js.map": "/kuckoo/static/js/95.62aacf18.chunk.js.map",
+    "651.7ffe84e9.chunk.js.map": "/kuckoo/static/js/651.7ffe84e9.chunk.js.map",
+    "823.4ae3becf.chunk.js.map": "/kuckoo/static/js/823.4ae3becf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34329d1d.css",
-    "static/js/main.7bbed143.js"
+    "static/js/main.3ad68b9e.js"
   ]
 }
